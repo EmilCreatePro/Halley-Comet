@@ -1,0 +1,3 @@
+Stiind ca cometa hailey a avut ultima vizita la data de 5.2.1986 la ora 21:29 sa se realizeze un program care sa ne ceara
+datele de la ultima ei vizita si care sa calculeze cand va avea loc urmatoarea vizita, stiind ca cometa hailey
+are un ciclu de 75 de ani, 116 zile, 19 ore si 12 secunde
